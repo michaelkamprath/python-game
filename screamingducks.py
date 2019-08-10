@@ -13,7 +13,7 @@ def roll_die(x,y):
 #
 #
 #
-#SETUP SEQUENCE
+#SETUP SEQUENCE :D
 #
 #
 #
